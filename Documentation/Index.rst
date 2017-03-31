@@ -31,7 +31,7 @@ My Public Info Project
 
 
 :Writing here:    Anne Bamberger & Team T3UXW
-:Rendered:        |today|
+:Rendered:        |2017-03-31 10:10|
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `Who else has a starter project?`__
 
